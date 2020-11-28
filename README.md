@@ -1,0 +1,1 @@
+This is the CMIS document repository configuration files based on the [Alfresco Community Edition](https://www.alfresco.com/products/community/download). The files have been customized to work and integrate with CB-FLTS.
