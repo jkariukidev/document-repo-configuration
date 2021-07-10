@@ -1,2 +1,5 @@
 # Ignore Log files
 *.log
+
+# Package Files #
+*.war
